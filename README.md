@@ -12,3 +12,8 @@ Applications: Useful for urban planning, autonomous navigation, disaster respons
 
 ## Model Performance
 The proposed model outperforms existing methods such as DA-RoadNet, GOALF, and DCS-TransUperNet, achieving the highest Recall (73.53%), F1-Score (74.00%), and IoU (58.73%) on the DeepGlobe dataset.
+
+## Output
+![1st_img](https://github.com/user-attachments/assets/9a40cb15-b93a-45b8-bb18-df7113e98914)
+![3rd_img](https://github.com/user-attachments/assets/2d75211c-abc6-44d7-b0af-2279f587c0e2)
+![2nd_img](https://github.com/user-attachments/assets/81a70a57-4d37-4080-9f94-d17658c12ff7)
